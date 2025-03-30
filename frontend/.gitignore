@@ -2,3 +2,6 @@ node_modules
 .codesandbox
 .devcontainer
 *.yaml
+adddata.js
+data.txt
+modelData
