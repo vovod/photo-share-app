@@ -1,0 +1,35 @@
+/* user-photos.css */
+
+.user-photos-container {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.photo-container{
+    padding-left: 2%;
+}
+
+
+.photo {
+    max-width: 100%;
+    height: auto;
+}
+
+.comment-primary-link {
+    text-decoration: none;
+    color: blue;
+}
+
+.comment-content {
+    border: 1px solid #9c9898;
+}
+
+.comment-item {
+    padding-left: 25px;
+    padding-right: 80px;
+}
+
+.add-comment {
+    padding-bottom: 50px;
+    border-bottom: 4px solid #9c9898;
+}

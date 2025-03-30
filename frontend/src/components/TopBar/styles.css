@@ -1,0 +1,8 @@
+.topbar-appBar {
+  height: 60;
+  justify-content: "center";
+}
+
+.MuiToolbar-regular {
+  background-color: black;
+}

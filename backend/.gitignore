@@ -1,0 +1,6 @@
+node_modules
+.codesandbox
+.devcontainer
+.env
+yam.lock
+modelData
